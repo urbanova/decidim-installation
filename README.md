@@ -12,6 +12,8 @@
 
 ### Local DEV Environment
 
+#### MAC
+
 ```
 brew update
 brew install rbenv ruby-build
